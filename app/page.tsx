@@ -114,7 +114,7 @@ export default function LandingPage() {
 
   const recipeImages = [
     {
-      src: "/public/brownie fitness.webp",
+      src: "/brownie fitness.webp",
       title: "BROWNIE FITNESS",
       description: "Chocolate intenso, zero açúcar, textura perfeita!",
       time: "15 min",
@@ -304,7 +304,7 @@ export default function LandingPage() {
 
             <div className="relative w-72 h-64 mx-auto">
               <Image
-                src="/public/DRA.webp"
+                src="/DRA.webp"
                 alt="Dra. Paula Fernanda - Nutricionista"
                 fill
                 className="rounded-xl shadow-xl object-cover"
